@@ -489,6 +489,11 @@ Bạn có thể sử dụng [lambda](https://realpython.com/python-lambda/) đ�
 
 Cơ chế signal, slot chp phép bạn chuyển user event thành hành động thực sự. 
 
+Như vậy chúng ta đã làm quen cới những thành phần quan trọng nhất của PyQt. Bây giờ các bạn có thể bắt tay vào để xây dựng một GUI applicaition cho riêng mình được rồi.
+
+### Tài liệu tham khảo
+1. https://realpython.com/python-pyqt-gui-calculator/
+
 
 
 
